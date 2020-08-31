@@ -1,3 +1,6 @@
+<?PHP
+header('X-Frame-Options: SAMEORIGIN');
+?>
 <?php
 error_reporting(0);
 function encrypte($string,$key){
