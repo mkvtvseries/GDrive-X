@@ -64,11 +64,14 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 
 <ul>
    <li>Open embed.php</li>
+   
    <li>Find following code:</li>
+   <br />
 
 ![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg)
+   <br />
 
-   <li>Otherwise search for following code:</li>
+   <li>Otherwise search for following code:</li><br />
 
    ```
    {adbreak1:{offset:"pre",tag:""}
@@ -76,12 +79,14 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    ```
    
    <li>After finding above code, put your VAST/IMA AD TAG in between: tag="" For example:</li>
+   <br />
    
    ```
    tag:"add-your-vast/ima-tag-here"
    ```
    
    <li>In offset you can adjust interval between AD shown</li>
+
 
 ## IFrame Busting
 
