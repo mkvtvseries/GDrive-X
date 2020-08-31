@@ -27,6 +27,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 13. Domain Restriction.
 14. Support JWPlayer.
 15. Fast setup, in about 15 min you can use it.
+16. Frame Busting (newly added)
 
 ## Demo
 
