@@ -28,6 +28,11 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 14. Support JWPlayer.
 15. Fast setup, in about 15 min you can use it.
 
+## Demo
+
+1. Currently deployed at Heroku.
+2. Check it out: <a href='https://gdrivex.herokuapp.com/' target="_blank">GDrive-X</a>
+
 ## Installation
 
 1. Download the zip file.
