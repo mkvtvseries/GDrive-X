@@ -63,11 +63,11 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    <li>Step 2. Look for code below. Between line 1 and 3</li>
    <br>
    
-       ```
+       
        <?PHP
        header('X-Frame-Options: SAMEORIGIN');
        ?>
-       ```
+ 
    <br>
    <li>Step 3. Remove it. <strong>Heads up! It will remove framebusting. Anyone with link can now embed it in their site.</strong></li>
    
