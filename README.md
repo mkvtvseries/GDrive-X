@@ -45,7 +45,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 
 1. Initially GDrive-X contains framebusting script which disables it being loaded in Iframe. If you want to disable it, please follow steps below:
 
-   a. Open embed.php.
+   a. Open embed.php.<br />
    b. Look for code below. Between line 1 and 3
    
    ```
