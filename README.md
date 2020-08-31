@@ -5,11 +5,6 @@ A tool for playing Google Photos Video with JW Player
 
 A tool for playing Google Photos Video using JW Player. You can play any video hosted on Google Photos directly using the following script. It enables you to stream video using world's most renowned player i.e. JW Player.
 
-## Requirements
-
-1. Shared Hosting (minimum)
-2. VPS/Shared/Dedicated Hosting (recommended) 
-
 ## Features
 
 1. CDN Enabled.
@@ -41,6 +36,11 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    ```
 
 4. GDrive-X not opening? Try pasting https://gdrivex.herokuapp.com in your browser. 
+
+## Requirements
+
+1. Shared Hosting (minimum)
+2. VPS/Shared/Dedicated Hosting (recommended) 
 
 ## Installation
 
