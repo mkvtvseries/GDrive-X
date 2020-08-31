@@ -106,4 +106,5 @@ Fair use is a use permitted by copyright statute that might otherwise be infring
 All the information provided on this website is provided on an “as is” and “as available” basis and you agree that you use such information entirely at your own risk.
 
 The GDrive-X (repository) gives no warranty and accepts no responsibility or liability for the accuracy or the completeness of the information and materials contained in this GDrive-X (repository). Under no circumstances will the GDrive-X (repository) be held responsible or liable in any way for any claims, damages, losses, expenses, costs or liabilities whatsoever (including, without limitation, any direct or indirect damages for loss of profits, business interruption or loss of information) resulting or arising directly or indirectly from your use of or inability to use this GDrive-X (repository) or any websites linked to it, or from your reliance on the information and material on this GDrive-X (repository), even if the GDrive-X (repository) has been advised or has known of the possibility of such damages in advance.
+```
 
