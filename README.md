@@ -24,7 +24,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 15. Fast setup, in about 15 min you can use it.
 16. Frame Busting (newly added)
 
-## Demo
+## Demo Site
 
 1. Currently deployed at Heroku.
 2. Check it out: <a href="https://gdrivex.herokuapp.com" target="_blank">Visit GDrive-X</a>
@@ -36,6 +36,11 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    ```
 
 4. GDrive-X not opening? Try pasting https://gdrivex.herokuapp.com in your browser. 
+
+## Demo of Working Player
+
+1. Currently deployed at Heroku.
+2. Check it out: <a href="https://gdrivex.herokuapp.com/embed.php?url=VnBkYnFkQXNvbmRrL0c1aVRkV1BHUXJYSHhqTmxiSkJVeHZBRGU2enhNcVFFOEtwQWZlNkRWVUdPLzlJWXpFZGs2MHpaV3NhcWxKQmRDMVk5OXJVb0pKWUp4ZDdlbzBKMkZZNTBteWdEQ1JFWHFqSEQ0SFBUWGJpMUduaEpZZkxnQkx3YmU2WEIvc0ZzaW4xSVFkUTV2ZDlDK2JqOGZMN2RyVVhZdUFxdFY1eUpIcWZkNXVuN1RwaGdkc2hqYWthZTlXMlNnN2tlNHhvYjBjY0p0Vy9zQUszbXdKMCt3MkVpWi9wWXl4MjdTTnU1cFNFaFNDcUxxajl5eU9QbW9FY3VmMzEwZWJGZ2dTNHpDcjdac09pWVE9PQ==&sub=&poster=" target="_blank">Visit GDrive-X Player</a>
 
 ## Requirements
 
