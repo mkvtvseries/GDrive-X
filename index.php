@@ -193,7 +193,7 @@ if(isset($url)){
 <div>
 <?php if($iframeid){echo 'Direct Link:<br><textarea style="margin:10px;width:98%;height:120px;">'.$domain_name.'embed.php?url='.$iframeid.'&sub='.$sub.'&poster='.$poster.'</textarea>';}?>
 </div>
-<p><b>Sample Google Photo URL:</b> <input type="text" value="https://photos.google.com/share/AF1QipP3nfR3TMP9UDpZ43hqDTxHepGih67oqNGkOiu4ET5FJJ3ufsx2TRWuXpwL5iISJw/photo/AF1QipPJOUv8bba4k8UE7BH0Rt8IEOvSUwZixVNoaLPz?key=SUlUVHNSdzZoTG41RG5kWGdLLTRYazAwckJLRXBB" id="myInput">
+<p><b>Sample Google Photo URL:</b> <input type="text" value="https://photos.google.com/share/AF1QipMTEPAiVF8t0YqLukflnOSQjwfd8ARIoT2h37AXvYO1uaWodbeiFoBUDuD_19tEbg/photo/AF1QipPA2Bq0JlAR9LoGD3mogsxSb9OZWEG4XqBDD4Rv?key=cjhUT0xrZjM5NGN2SVRLOVptZU5SMUlKV0lQYWpB" id="myInput">
 <button onclick="myFunction()">Copy</button></div>
 </div>
 <?php
