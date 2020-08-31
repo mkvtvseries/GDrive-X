@@ -60,11 +60,34 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    
 4. Change "admin" with your username and "admin123" with your password.
 
-## Note
+## VAST/IMA Setup
 
-1. Initially GDrive-X contains framebusting script which disables it being loaded in Iframe. If you want to disable it, please follow steps below:
+<ul>
+   <li>Open embed.php</li>
+   <li>Find following code:</li>
+
+![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg)
+
+   <li>Otherwise search for following code:</li>
+
+   ```
+   {adbreak1:{offset:"pre",tag:""}
+   adbreak2:{ offset:"50%",tag:""}
+   ```
+   
+   <li>After finding above code, put your VAST/IMA AD TAG in between: tag="" For example:</li>
+   
+   ```
+   tag:"add-your-vast/ima-tag-here"
+   ```
+   
+   <li>In offset you can adjust interval between AD shown</li>
+
+## IFrame Busting
+
+1. Initially GDrive-X contains framebusting script which prevents it being loaded in Iframe. If you want to disable it, please follow steps below:
    <ul>
-   <li>Step 1. Open embed.php.</li>
+   <li>Step 1. Open embed.php</li>
    <li>Step 2. Look for code below. Between line 1 and 3</li>
    <br>
       
