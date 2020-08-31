@@ -82,4 +82,20 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 
 ## Disclaimer
 
-*For Educational Purpose Only
+GDrive-X is created for educational purposes only.
+
+Fair Use
+
+Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for "fair use" for purposes such as 
+
+<ul>
+   <li>criticism</li>
+   <li>comment</li> 
+   <li>news reporting</li> 
+   <li>teaching</li> 
+   <li>scholarship</li> <li>education and research</li> 
+</ul>
+
+Fair use is not limited to the above and is to be considered on a case by case basis.
+
+Fair use is a use permitted by copyright statute that might otherwise be infringing.
