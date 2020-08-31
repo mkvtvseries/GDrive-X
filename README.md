@@ -79,3 +79,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 ## Credits:
 
 <p><b>Credits: <a href="https://github.com/karankankaria" target="_blank">@karankankaria</a></b></p>
+
+## Disclaimer
+
+*For Educational Purpose Only
