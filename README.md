@@ -88,7 +88,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
    <li>In offset you can adjust interval between AD shown</li>
 
 
-## IFrame Busting
+# IFrame Busting
 
 1. Initially GDrive-X contains framebusting script which prevents it being loaded in Iframe. If you want to disable it, please follow steps below:
    <ul>
