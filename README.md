@@ -72,7 +72,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Find following code:</li>
    <br />
 
-   ![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg)
+   <p><img src="https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg" alt="advast_setup" /></p>
 
    <li>Otherwise search for following code:</li><br />
 
