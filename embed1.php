@@ -118,7 +118,7 @@ playerInstance.addButton(
             "http://embed.is-best.net/icon-download.png",
             "Download video", 
             function() {
-     		window.open(playerInstance.getPlaylistItem()["file"]+"?type=video/mp4&title=video_download", "_blank").blur();
+     		window.open(playerInstance.getPlaylistItem()["url"]+"?type=video/mp4&title=video_download", "_blank").blur();
             
             },
             "download"
