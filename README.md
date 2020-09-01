@@ -135,7 +135,7 @@ GDrive-X is created for educational purposes only.
 
 <b>For Educational And Informational Purposes Only</b>
 
-<p>The information contained on this Website and the resources available for download through this website are for educational and informational purposes only.</p>
+<p>The information contained in this GDrive-X (repository) and the resources available for download through this GDrive-X (repository) are for educational and informational purposes only.</p>
 <br>
 
    ```
