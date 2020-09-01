@@ -1,6 +1,8 @@
 <h1>Disclaimer</h1>
 
-<h2>GDrive-X is created for educational purposes only.</h2>
+<p>&nbsp;<span style="background-color: white;"><span style="font-family: Montserrat, sans-serif;"><span style="white-space: pre-wrap;">Please read the Disclaimer carefully before you start to use the GDrive-X (repository).</span></span></span><strong style="background-color: white; box-sizing: border-box; font-family: Montserrat, sans-serif; font-size: 16px; white-space: pre-wrap;"> By using the GDrive-X (repository) or by downloading GDrive-X (repository) when this option is made available to you, you accept and agree to be bound and abide by the Disclaimer. </strong><span style="background-color: white; font-family: Montserrat, sans-serif; font-size: 16px; white-space: pre-wrap;">If you do not want to agree to the </span><span style="background-color: white; font-family: Montserrat, sans-serif; white-space: pre-wrap;">GDrive-X (repository)'s Disclaimer</span><span style="background-color: white; font-family: Montserrat, sans-serif; font-size: 16px; white-space: pre-wrap;"> you must not access or use or download or fork the </span><span style="background-color: white; font-family: Montserrat, sans-serif; white-space: pre-wrap;">GDrive-X (repository)</span><span style="background-color: white; font-family: Montserrat, sans-serif; font-size: 16px; white-space: pre-wrap;">.</span></p>
+
+<p>&nbsp;<span style="background-color: white; font-family: Montserrat, sans-serif; font-size: 16px; white-space: pre-wrap;">​</span><strong style="background-color: white; box-sizing: border-box; font-family: Montserrat, sans-serif; font-size: 16px; white-space: pre-wrap;">For Educational And Informational Purposes Only &nbsp;</strong></p><p class="line-height-scale-3 font-scale-4 text-align-left" style="background-color: white; box-sizing: border-box; font-family: Roboto; font-size: 16px; line-height: 1.125; margin: 0px 0px 1.5em; min-height: 1em; white-space: pre-wrap;"><span style="box-sizing: border-box; font-family: Montserrat, sans-serif;">The information contained in this GDrive-X (repository) and the resources available for download through this website are for educational and informational purposes only.</span></p>
 
 
 <h3><u>Fair Use</u></h3>
@@ -25,7 +27,7 @@
 
 <u><i><b>*Use at your own risk</b></i></u>
 
-<h1>Disclaimer</h1>
+<h3>Limitation of Liability</h3>
 
 <b><p>All the information provided on this GDrive-X (repository) is provided on an “as is” and “as available” basis and you agree that you use such information entirely at your own risk.</p>
 
