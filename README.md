@@ -72,22 +72,22 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Find following code:</li>
    <br />
 
-![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg)
+   ![](https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg)
    <br />
 
    <li>Otherwise search for following code:</li><br />
 
-           ```
-           {adbreak1:{offset:"pre",tag:""}
-           adbreak2:{ offset:"50%",tag:""}
-           ```
+   ```
+   {adbreak1:{offset:"pre",tag:""}
+   adbreak2:{ offset:"50%",tag:""}
+   ```
    
    <li>After finding above code, put your VAST/IMA AD TAG in between: tag="" For example:</li>
    <br />
    
-           ```
-           tag:"add-your-vast/ima-tag-here"
-           ```
+   ```
+   tag:"add-your-vast/ima-tag-here"
+   ```
    
    <li>In offset you can adjust interval between AD shown</li>
 </ul>
