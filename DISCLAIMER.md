@@ -23,7 +23,7 @@
 
 <p><b>Fair use is not limited to the above and is to be considered on a case by case basis. Fair use is a use permitted by copyright statute that might otherwise be infringing.</b></p>
 
-<u><i><b>Use at your own risk</b></i></u>
+<u><i><b>*Use at your own risk</b></i></u>
 
 <h1>Disclaimer</h1>
 
