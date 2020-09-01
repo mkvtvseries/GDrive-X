@@ -5,6 +5,9 @@ A tool for playing Google Photos Video with JW Player
 
 A tool for playing Google Photos Video using JW Player. You can play any video hosted on Google Photos directly using the following script. It enables you to stream video using world's most renowned player i.e. JW Player.
 
+## Important Note
+
+Please read the Disclaimer carefully before you start to use the GDrive-X (repository). By using the GDrive-X (repository) or by downloading GDrive-X (repository) when this option is made available to you, you accept and agree to be bound and abide by the Disclaimer. If you do not want to agree to the GDrive-X (repository)'s Disclaimer, you must not access or use the GDrive-X (repository). <a href='https://github.com/karankankaria/GDrive-X/blob/master/DISCLAIMER.md'>Read Disclaimer!</a>
 ## Features
 
 1. CDN Enabled.
