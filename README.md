@@ -127,7 +127,7 @@ A tool for playing Google Photos Video using JW Player. You can play any video h
 
 ## Disclaimer
 
-GDrive-X is created for educational purposes only.
+GDrive-X is created for educational purposes only. Use at your own risk.
 <br>
 ```
 Fair Use
