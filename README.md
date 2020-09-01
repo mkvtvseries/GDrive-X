@@ -141,7 +141,7 @@ Initially GDrive-X contains framebusting script which prevents it being loaded i
 
 ## Credits:
 
-<p><b>Credits: <a href="https://github.com/karankankaria" target="_blank">@karankankaria</a></b></p>
+<p><a href="https://github.com/karankankaria/GDrive-X" style="box-sizing: border-box; color: #1e6bb8; font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; margin-top: 0px; text-decoration-line: none;">GDrive-X</a><span style="color: #606c71; font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700;">&nbsp;is maintained by&nbsp;</span><a href="https://github.com/karankankaria" style="box-sizing: border-box; color: #1e6bb8; font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; text-decoration-line: none;">karankankaria</a><span style="color: #606c71; font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700;">.</span></p>
 
 ## Disclaimer
 
