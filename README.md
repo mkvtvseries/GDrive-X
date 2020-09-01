@@ -74,20 +74,21 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 
    <p><img src="https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg" alt="advast_setup" /></p>
 
-   <li>Otherwise search for following code:</li><br />
+   <li>Otherwise search for following code:</li>
+</ul>
 
    ```
    {adbreak1:{offset:"pre",tag:"add-your-vast/ima-tag-here"}
    adbreak2:{ offset:"50%",tag:"add-your-vast/ima-tag-here"}
    ```
-   
+<ul>
    <li>After finding above code, replace your VAST/IMA AD TAG with: add-your-vast/ima-tag-here</li>
-   <br />
+</ul>
    
    ```
    tag:"add-your-vast/ima-tag-here"
    ```
-   
+<ul>  
    <li>In offset you can adjust interval between AD shown</li>
 </ul>
 
@@ -97,14 +98,14 @@ Initially GDrive-X contains framebusting script which prevents it being loaded i
 <ul>
 <li>Open embed.php</li>
 <li>Look for code below. Between line 1 and 3</li>
-<br>
+</ul>
    
    ```
    <?PHP
    header('X-Frame-Options: SAMEORIGIN');
    ?>
    ```
-
+<ul>
 <li>Remove it. <strong>Heads up! It will remove framebusting. Anyone with link can now embed it in their site.</strong></li>
 </ul>
 
