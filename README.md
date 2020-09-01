@@ -11,58 +11,71 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 
 ## Features
 
-1. CDN Enabled.
-2. Support Vast/IMA Ads, Popads, Popunder etc.
-3. Attractive Panel.
-4. Never Die Link.
-4. Login Panel for security.
-5. Simple Panel.
-7. Encryption.
-8. 720p, 480p, 360p Quality Streaming.
-9. Use Google Photos Bandwidth.
-10. Unlimited Storage.
-11. Unlimited Bandwidth.
-12. No DMCA.
-13. Domain Restriction.
-14. Support JWPlayer.
-15. Fast setup, in about 15 min you can use it.
-16. Frame Busting (newly added)
+<ul>
+   <li>CDN Enabled.</li>
+   <li>Support Vast/IMA Ads, Popads, Popunder etc.</li>
+   <li>Attractive Panel.</li>
+   <li>Never Die Link.</li>
+   <li>Login Panel for security.</li>
+   <li>Simple Panel.</li>
+   <li>Encryption.</li>
+   <li>720p, 480p, 360p Quality Streaming.</li>
+   <li>Use Google Photos Bandwidth.</li>
+   <li>Unlimited Storage.</li>
+   <li>Unlimited Bandwidth.</li>
+   <li>No DMCA.</li>
+   <li>Domain Restriction.</li>
+   <li>Support JWPlayer.</li>
+   <li>Fast setup, in about 15 min you can use it.</li>
+   <li>Frame Busting. (newly added)</li>
+</ul>
 
 ## Demo Site
 
-1. Currently deployed at Heroku.
-2. Check it out: <a href="https://gdrivex.herokuapp.com" target="_blank">Visit GDrive-X</a>
-3. Login Details:
+<ul>
+   <li>Currently deployed at Heroku.</li>
+   <li>Check it out: <a href="https://gdrivex.herokuapp.com" target="_blank">Visit GDrive-X</a></li>
+   <li>Login Details:</li>
+</ul>
 
    ```
    username: admin
    password: admin123
    ```
-
-4. GDrive-X not opening? Try pasting https://gdrivex.herokuapp.com in your browser. 
+<ul>
+   <li>GDrive-X not opening? Try pasting https://gdrivex.herokuapp.com in your browser.</li>
+</ul>
 
 ## Demo of Working Player
 
-1. Currently deployed at Heroku.
-2. Check it out: <a href="https://gdrivex.herokuapp.com/embed.php?url=VnBkYnFkQXNvbmRrL0c1aVRkV1BHUXJYSHhqTmxiSkJVeHZBRGU2enhNb24xeFdVM1hlblVSZmcyY3hiWU9uSEpDdTMrdTdPUXo1VmZ0VzVwbGhGcXZpTDR5eWRtelZDKzhyZEdrY1VHdllGS2ExNE11K1g5MW9KcXRYdmtXRHZ0U3c1RVNrZ25SMjJFeGZjUEdCcXFhNG9OL3N3bGhKck1xeGZNSlpLNXl4bmRxVmFFZCtXb0lqc3BpTGd0SGlmTjkwWkJZYzlKY05RUHY2V09EMFNNZTd2dW5NakFrWlBBbHd6WVp0N2htRGpiY3J0bWFYNUdzemFJTFp0MGVEMFEyYnd3a2tuRXhiajdVZHlYbXdrUHc9PQ==&sub=&poster=https://i.gadgets360cdn.com/large/google_photos_1526539307005.jpg" target="_blank">Visit GDrive-X Player</a>
+<ul>
+   <li>Currently deployed at Heroku.</li>
+   <li>Check it out: <a href="https://gdrivex.herokuapp.com/embed.php?url=VnBkYnFkQXNvbmRrL0c1aVRkV1BHUXJYSHhqTmxiSkJVeHZBRGU2enhNb24xeFdVM1hlblVSZmcyY3hiWU9uSEpDdTMrdTdPUXo1VmZ0VzVwbGhGcXZpTDR5eWRtelZDKzhyZEdrY1VHdllGS2ExNE11K1g5MW9KcXRYdmtXRHZ0U3c1RVNrZ25SMjJFeGZjUEdCcXFhNG9OL3N3bGhKck1xeGZNSlpLNXl4bmRxVmFFZCtXb0lqc3BpTGd0SGlmTjkwWkJZYzlKY05RUHY2V09EMFNNZTd2dW5NakFrWlBBbHd6WVp0N2htRGpiY3J0bWFYNUdzemFJTFp0MGVEMFEyYnd3a2tuRXhiajdVZHlYbXdrUHc9PQ==&sub=&poster=https://i.gadgets360cdn.com/large/google_photos_1526539307005.jpg" target="_blank">Visit GDrive-X Player</a></li>
+</ul>
 
 ## Requirements
 
-1. Shared Hosting (minimum)
-2. VPS/Shared/Dedicated Hosting (recommended) 
+<ul>
+   <li>Shared Hosting (minimum)</li>
+   <li>VPS/Shared/Dedicated Hosting (recommended)</li>
+</ul>
 
 ## Installation
 
-1. Download the zip file.
-2. Upload it in your server root and extract it. 
-3. Open index.php and find following code:
+<ul>
+   <li>Download the zip file.</li>
+   <li>Upload it in your server root and extract it.</li>
+   <li>Open index.php and find following code:</li>
+</ul>
 
    ```
    $username = 'admin';
    $password = 'admin123';
    ```
    
-4. Change "admin" with your username and "admin123" with your password.
+<ul>
+   <li>Change "admin" with your username and "admin123" with your password.</li>
+</ul>
 
 ## VAST/IMA Setup
 
