@@ -16,18 +16,19 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Support Vast/IMA Ads, Popads, Popunder etc.</li>
    <li>Attractive Panel.</li>
    <li>Never Die Link.</li>
-   <li>Login Panel for security.</li>
+   <li>Login Panel for Security.</li>
    <li>Simple Panel.</li>
    <li>Encryption.</li>
-   <li>720p, 480p, 360p Quality Streaming.</li>
+   <li>1080p, 720p, 480p, 360p Quality Streaming.</li>
+   <li>Download Option</li>
    <li>Use Google Photos Bandwidth.</li>
    <li>Unlimited Storage.</li>
    <li>Unlimited Bandwidth.</li>
-   <li>No DMCA.</li>
+   <li>Secured Source Code</li>
    <li>Domain Restriction.</li>
    <li>Support JWPlayer.</li>
    <li>Fast setup, in about 15 min you can use it.</li>
-   <li>Frame Busting. (newly added)</li>
+   <li>Frame Busting.</li>
 </ul>
 
 ## Demo Site
