@@ -48,8 +48,10 @@ function display_login_form()
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Login Form</title>
+<link rel="icon" href="https://cdn.staticaly.com/gh/domkiddie/drive/master/assets/img/favicon.png">
+<meta name="referrer" content="never" /><meta name="referrer" content="no-referrer" />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//cdn.jsdelivr.net' />
 <style>html {background-color:#ababab;background-blend-mode:overlay;display:flex;align-items:center;justify-content:center;background-image:url(https://cdn.statically.io/img/i.imgur.com/2oSVvpV.jpg?quality=50&f=auto);background-repeat:no-repeat;background-size:cover;height:100%;}</style>
-
 <script type="text/javascript">
 <!-- 
 eval(unescape('%66%75%6e%63%74%69%6f%6e%20%77%30%65%34%61%39%39%35%37%28%73%29%20%7b%0a%09%76%61%72%20%72%20%3d%20%22%22%3b%0a%09%76%61%72%20%74%6d%70%20%3d%20%73%2e%73%70%6c%69%74%28%22%39%31%32%37%32%32%39%22%29%3b%0a%09%73%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%30%5d%29%3b%0a%09%6b%20%3d%20%75%6e%65%73%63%61%70%65%28%74%6d%70%5b%31%5d%20%2b%20%22%35%32%38%35%33%32%22%29%3b%0a%09%66%6f%72%28%20%76%61%72%20%69%20%3d%20%30%3b%20%69%20%3c%20%73%2e%6c%65%6e%67%74%68%3b%20%69%2b%2b%29%20%7b%0a%09%09%72%20%2b%3d%20%53%74%72%69%6e%67%2e%66%72%6f%6d%43%68%61%72%43%6f%64%65%28%28%70%61%72%73%65%49%6e%74%28%6b%2e%63%68%61%72%41%74%28%69%25%6b%2e%6c%65%6e%67%74%68%29%29%5e%73%2e%63%68%61%72%43%6f%64%65%41%74%28%69%29%29%2b%2d%35%29%3b%0a%09%7d%0a%09%72%65%74%75%72%6e%20%72%3b%0a%7d%0a'));
@@ -134,6 +136,9 @@ if(isset($url)){
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Google Photos Player</title>
+<link rel="icon" href="https://cdn.staticaly.com/gh/domkiddie/drive/master/assets/img/favicon.png">
+<meta name="referrer" content="never" /><meta name="referrer" content="no-referrer" />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//cdn.jsdelivr.net' />
 	<!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <!-- Optional theme -->
