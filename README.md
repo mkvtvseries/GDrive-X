@@ -77,33 +77,39 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Change "admin" with your username and "admin123" with your password.</li>
 </ul>
 
-## VAST/IMA Setup
+## Usage
 
 <ul>
-   <li>Open embed.php</li>
-   
-   <li>Find following code:</li>
-   <br />
-
-   <p><img src="https://raw.githubusercontent.com/karankankaria/JWPlayer/master/assets/advast_setup.jpg" alt="advast_setup" /></p>
-
-   <li>Otherwise search for following code:</li>
-</ul>
-
-   ```
-   {adbreak1:{offset:"pre",tag:"add-your-vast/ima-tag-here"}
-   adbreak2:{ offset:"50%",tag:"add-your-vast/ima-tag-here"}
-   ```
-<ul>
-   <li>After finding above code, replace your VAST/IMA AD TAG with: add-your-vast/ima-tag-here</li>
+   <li>Upload video to Google Drive and transfer it to Google Photos or directly upload video to Google Photos</li>
+   <li>Create "Shareing Link" and make it public and copy it and paste it in browser</li>
+   <li>After pasting link in browser and copy full link like below:</li>
 </ul>
    
    ```
-   tag:"add-your-vast/ima-tag-here"
+   https://photos.google.com/share/xxxxxxxxxxx/photo/xxxxxxxxxx?key=xxxxxxxxxxxxx
    ```
-<ul>  
-   <li>In offset you can adjust interval between AD shown</li>
+   
+<ul>
+   <li>Copy that link and paste in the GDrive-X tool</li>
+   <li>Click "Get and Watch Video"</li>
 </ul>
+
+
+## Full Control Over GDrive-X Tool
+
+Following our the <b>Features</b> included in <b><u>GDrive-X Premium</u></b>
+
+<ul>
+   <li>Complete control over player</li>
+   <li>Your VAST/IMA AD, POPUP AD, POPUNDER AD</li>
+   <li>Your <b>own logo</b>, <b>about link</b>, <b>about text</b></li>
+   <li>Extra secured code</li>
+   <li>Improved player style ( Premium look )</li>
+   <li>Premium updates</li>
+   <li>Technical assistance</li>
+</ul>
+
+For GDrive-X Premium Tool contact me: 2105karankankaria [@] gmail [dot] com
 
 ## IFrame Busting
 
