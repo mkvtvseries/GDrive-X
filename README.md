@@ -14,7 +14,6 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 <ul>
    <li>CDN Enabled.</li>
    <li>Support Vast/IMA Ads, Popads, Popunder ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
-   <li>Attractive Panel.</li>
    <li>Never Die Link.</li>
    <li>Login Panel for Security.</li>
    <li>FuckAdblock. ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
