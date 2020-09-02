@@ -48,7 +48,7 @@ function display_login_form()
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Login Form</title>
-<style>html {background-color:#ababab;background-blend-mode:overlay;display:flex;align-items:center;justify-content:center;background-image:url(https://cdn.statically.io/img/i.imgur.com/2oSVvpV.jpg?quality=10&f=auto);background-repeat:no-repeat;background-size:cover;height:100%;}</style>
+<style>html {background-color:#ababab;background-blend-mode:overlay;display:flex;align-items:center;justify-content:center;background-image:url(https://cdn.statically.io/img/i.imgur.com/2oSVvpV.jpg?quality=50&f=auto);background-repeat:no-repeat;background-size:cover;height:100%;}</style>
 
 <script type="text/javascript">
 <!-- 
