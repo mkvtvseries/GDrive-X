@@ -20,7 +20,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Simple Panel.</li>
    <li>Encryption.</li>
    <li>1080p, 720p, 480p, 360p Quality Streaming.</li>
-   <li>Download Option</li>
+   <li>Download Option ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Use Google Photos Bandwidth.</li>
    <li>Unlimited Storage.</li>
    <li>Unlimited Bandwidth.</li>
@@ -102,6 +102,7 @@ You get complete control over your player in GDrive-X Premium Tool. The GDrive-X
 
 <ul>
    <li>Complete control over player</li>
+   <li>Download Option ( working )</li>
    <li>Your VAST/IMA AD, POPUP AD, POPUNDER AD</li>
    <li>Your <b>own logo</b>, <b>about link</b>, <b>about text</b></li>
    <li>Extra secured code</li>
