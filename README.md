@@ -13,7 +13,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 
 <ul>
    <li>CDN Enabled.</li>
-   <li>Support Vast/IMA Ads, Popads, Popunder etc.</li>
+   <li>Support Vast/IMA Ads, Popads, Popunder ( <a href='https://github.com/karankankaria/GDrive-X#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Attractive Panel.</li>
    <li>Never Die Link.</li>
    <li>Login Panel for Security.</li>
@@ -24,7 +24,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Use Google Photos Bandwidth.</li>
    <li>Unlimited Storage.</li>
    <li>Unlimited Bandwidth.</li>
-   <li>Secured Source Code</li>
+   <li>Secured Source Code ( <a href='https://github.com/karankankaria/GDrive-X#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Domain Restriction.</li>
    <li>Support JWPlayer.</li>
    <li>Fast setup, in about 15 min you can use it.</li>
