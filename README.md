@@ -95,9 +95,9 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
 </ul>
 
 
-## Full Control Over GDrive-X Tool
+## GDrive-X Premium Tool
 
-Following our the <b>Features</b> included in <b><u>GDrive-X Premium</u></b>
+You get complete control over your player in GDrive-X Premium Tool. The GDrive-X Tool initially comes installed with our advertisements. To remove those and put your own advertisement and put your own logo and for premium style player try GDrive-X Premium Tool. Following our the <b>Features</b> included in <b><u>GDrive-X Premium</u></b>
 
 <ul>
    <li>Complete control over player</li>
@@ -107,6 +107,7 @@ Following our the <b>Features</b> included in <b><u>GDrive-X Premium</u></b>
    <li>Improved player style ( Premium look )</li>
    <li>Premium updates</li>
    <li>Technical assistance</li>
+   <li>and many more...</li>
 </ul>
 
 For GDrive-X Premium Tool contact me: 2105karankankaria [@] gmail [dot] com
