@@ -74,60 +74,60 @@ function logged_in_msg($username)
 <?php
 	error_reporting(0);
 	include "curl_gd.php";
-    function curl($url){
-		$ch = @curl_init();
-		curl_setopt($ch, CURLOPT_URL, $url);
-		$head[] = "Connection: keep-alive";
-		$head[] = "Keep-Alive: 300";
-		$head[] = "Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7";
-		$head[] = "Accept-Language: en-us,en;q=0.5";
-		curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36');
-		curl_setopt($ch, CURLOPT_HTTPHEADER, $head);
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-		curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
-		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
-		curl_setopt($ch, CURLOPT_TIMEOUT, 30);
-		curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 30);
-		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
-		curl_setopt($ch, CURLOPT_HTTPHEADER, array('Expect:'));
-		$page = curl_exec($ch);
-		curl_close($ch);
-		return $page;
+    function fn_c17c2c2e8d054e3b7ca6ca2ae46d3a38($var_ca82733491623ed9ca5b46aa68429a45){
+		$var_e8061cb59b46a4a2bda304354b950448 = @curl_init();
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_URL, $var_ca82733491623ed9ca5b46aa68429a45);
+		$var_0f201e57b55c5a95619a3f652b4b5a3e[] = "Connection: keep-alive";
+		$var_0f201e57b55c5a95619a3f652b4b5a3e[] = "Keep-Alive: 300";
+		$var_0f201e57b55c5a95619a3f652b4b5a3e[] = "Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7";
+		$var_0f201e57b55c5a95619a3f652b4b5a3e[] = "Accept-Language: en-us,en;q=0.5";
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36');
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_HTTPHEADER, $var_0f201e57b55c5a95619a3f652b4b5a3e);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_SSL_VERIFYHOST, FALSE);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_SSL_VERIFYPEER, FALSE);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_TIMEOUT, 30);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_CONNECTTIMEOUT, 30);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_FOLLOWLOCATION, TRUE);
+		curl_setopt($var_e8061cb59b46a4a2bda304354b950448, CURLOPT_HTTPHEADER, array('Expect:'));
+		$var_a166c95ada2c93c51d060c99bc6116f4 = curl_exec($var_e8061cb59b46a4a2bda304354b950448);
+		curl_close($var_e8061cb59b46a4a2bda304354b950448);
+		return $var_a166c95ada2c93c51d060c99bc6116f4;
 }
-function cut_str($str, $left, $right){
-	$str = substr(stristr($str, $left) , strlen($left));
-	$leftLen = strlen(stristr($str, $right));
-	$leftLen = $leftLen ? -($leftLen) : strlen($str);
-	$str = substr($str, 0, $leftLen);
-	return $str;
+function fn_f1de014933721f87e15813f8934b8c6b($var_a427318690029c887e48db5974e5b152, $var_9b44642ffa9941ecbf58f293f64044c7, $var_af82a4677dd3f630d51791cfe013794a){
+	$var_a427318690029c887e48db5974e5b152 = substr(stristr($var_a427318690029c887e48db5974e5b152, $var_9b44642ffa9941ecbf58f293f64044c7) , strlen($var_9b44642ffa9941ecbf58f293f64044c7));
+	$var_14393566c335e4a066485223aee2d339 = strlen(stristr($var_a427318690029c887e48db5974e5b152, $var_af82a4677dd3f630d51791cfe013794a));
+	$var_14393566c335e4a066485223aee2d339 = $var_14393566c335e4a066485223aee2d339 ? -($var_14393566c335e4a066485223aee2d339) : strlen($var_a427318690029c887e48db5974e5b152);
+	$var_a427318690029c887e48db5974e5b152 = substr($var_a427318690029c887e48db5974e5b152, 0, $var_14393566c335e4a066485223aee2d339);
+	return $var_a427318690029c887e48db5974e5b152;
 }
-if(isset($url)){
-	$curTemp = curl($url);
-	$curTemp = cut_str($curTemp,'{"79468658":[[','"]');
-	$curTemp = str_replace('\u003d','=', $curTemp);
-	$curTemp = str_replace('\u0026','&', $curTemp);
-	$curTemp = urldecode($curTemp);
-	if ($curTemp <> "") {
-		$curList = explode("&",$curTemp);
-		foreach ($curList as $curl) {
-		$curl = trim(substr($curl, strpos($curl,'https')-strlen($curl)));
-			if ($curl <> "" ){
-				if (strpos($curl,'itag=22') || strpos($curl,'=m22') !== false) {$v720p=$curl;}
-				if (strpos($curl,'itag=22') || strpos($curl,'=m22') !== false) {$v480p=$curl;}
-				if (strpos($curl,'itag=18') || strpos($curl,'=m18') !== false) {$v360p=$curl;}
+if(isset($var_ca82733491623ed9ca5b46aa68429a45)){
+	$var_8386959c4888e9229f41552edf1c057c = fn_c17c2c2e8d054e3b7ca6ca2ae46d3a38($var_ca82733491623ed9ca5b46aa68429a45);
+	$var_8386959c4888e9229f41552edf1c057c = fn_f1de014933721f87e15813f8934b8c6b($var_8386959c4888e9229f41552edf1c057c,'{"79468658":[[','"]');
+	$var_8386959c4888e9229f41552edf1c057c = str_replace('\u003d','=', $var_8386959c4888e9229f41552edf1c057c);
+	$var_8386959c4888e9229f41552edf1c057c = str_replace('\u0026','&', $var_8386959c4888e9229f41552edf1c057c);
+	$var_8386959c4888e9229f41552edf1c057c = urldecode($var_8386959c4888e9229f41552edf1c057c);
+	if ($var_8386959c4888e9229f41552edf1c057c <> "") {
+		$var_55f66d396ca06af994cb90d73716aa2f = explode("&",$var_8386959c4888e9229f41552edf1c057c);
+		foreach ($var_55f66d396ca06af994cb90d73716aa2f as $var_3cd73c3cfdd29503f59040be5a7a7ec1) {
+		$var_3cd73c3cfdd29503f59040be5a7a7ec1 = trim(substr($var_3cd73c3cfdd29503f59040be5a7a7ec1, strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'https')-strlen($var_3cd73c3cfdd29503f59040be5a7a7ec1)));
+			if ($var_3cd73c3cfdd29503f59040be5a7a7ec1 <> "" ){
+				if (strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'itag=22') || strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'=m22') !== false) {$var_b2eeeeb5f460c7aa5e848e32a2609cb6=$var_3cd73c3cfdd29503f59040be5a7a7ec1;}
+				if (strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'itag=22') || strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'=m22') !== false) {$var_91feaf4f20c9911010343a9136f66219=$var_3cd73c3cfdd29503f59040be5a7a7ec1;}
+				if (strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'itag=18') || strpos($var_3cd73c3cfdd29503f59040be5a7a7ec1,'=m18') !== false) {$var_2651841e3b78bb07c0094ea3d640af49=$var_3cd73c3cfdd29503f59040be5a7a7ec1;}
 			}
 		}
 	}
 	}
 	if($_POST['submit'] != ""){
-		$url = $_POST['url'];
-		$sub = $_POST['sub'];
-		$poster = $_POST['poster'];
-		$iframeid = my_simple_crypt($url);
-		$file = '[{"file": "'.$v360p.'", "type":"video/mp4","label":"360p", "default": "true"},{"file": "'.$v480p.'", "type":"video/mp4","label":"480p"},{"file": "'.$v720p.'", "type":"video/mp4","label":"720p"}]';
+		$var_ca82733491623ed9ca5b46aa68429a45 = $_POST['url'];
+		$var_6f0761f10142d0b2cca27f076f813d07 = $_POST['sub'];
+		$var_65bee03a17c74134539f222cb38f0cae = $_POST['poster'];
+		$var_c777f9f5bb1d443e6840a6bc0fd59608 = my_simple_crypt($var_ca82733491623ed9ca5b46aa68429a45);
+		$var_7627930d2ca3d69d67459718ffea775a = '[{"file": "'.$var_2651841e3b78bb07c0094ea3d640af49.'", "type":"video/mp4","label":"360p", "default": "true"},{"file": "'.$var_91feaf4f20c9911010343a9136f66219.'", "type":"video/mp4","label":"480p"},{"file": "'.$var_b2eeeeb5f460c7aa5e848e32a2609cb6.'", "type":"video/mp4","label":"720p"}]';
 	}
-	$domain_name = (isset($_SERVER['HTTPS']) ? "https" : "https") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-	$domain_name = str_replace('index.php','',$domain_name);
+	$var_ceb5e88c3ba3c575619c09d05c245af1 = (isset($_SERVER['HTTPS']) ? "https" : "https") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+	$var_ceb5e88c3ba3c575619c09d05c245af1 = str_replace('index.php','',$var_ceb5e88c3ba3c575619c09d05c245af1);
 	?>
 <!DOCTYPE html>
 <html lang="en">
@@ -159,7 +159,7 @@ if(isset($url)){
 <div class="panel-body">
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
-<?php if($iframeid){echo 'Video Preview:<br><iframe src="'.$domain_name.'embed.php?url='.$iframeid.'&sub='.$sub.'&poster='.$poster.'" width="100%" height="350px" frameborder="0" scrolling="no" allowfullscreen></iframe>';}?>
+<?php if($var_c777f9f5bb1d443e6840a6bc0fd59608){echo 'Video Preview:<br><iframe src="'.$var_ceb5e88c3ba3c575619c09d05c245af1.'embed.php?url='.$var_c777f9f5bb1d443e6840a6bc0fd59608.'&sub='.$var_6f0761f10142d0b2cca27f076f813d07.'&poster='.$var_65bee03a17c74134539f222cb38f0cae.'" width="100%" height="350px" frameborder="0" scrolling="no" allowfullscreen></iframe>';}?>
 </div>
 </div><br><br>
 <form action="" method="POST" class="form-horizontal">
@@ -193,11 +193,11 @@ if(isset($url)){
 </div>
 <br>
 <div>
-<?php if($iframeid){echo 'Iframe Embed:<br><textarea style="margin:10px;width:98%;height:120px;">&lt;iframe src="'.$domain_name.'embed.php?url='.$iframeid.'&sub='.$sub.'&poster='.$poster.'" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen&gt;&lt;/iframe&gt;</textarea>';}?>
+<?php if($var_c777f9f5bb1d443e6840a6bc0fd59608){echo 'Iframe Embed:<br><textarea style="margin:10px;width:98%;height:120px;">&lt;iframe src="'.$var_ceb5e88c3ba3c575619c09d05c245af1.'embed.php?url='.$var_c777f9f5bb1d443e6840a6bc0fd59608.'&sub='.$var_6f0761f10142d0b2cca27f076f813d07.'&poster='.$var_65bee03a17c74134539f222cb38f0cae.'" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen&gt;&lt;/iframe&gt;</textarea>';}?>
 </div>
 <br>
 <div>
-<?php if($iframeid){echo 'Direct Link:<br><textarea style="margin:10px;width:98%;height:120px;">'.$domain_name.'embed.php?url='.$iframeid.'&sub='.$sub.'&poster='.$poster.'</textarea>';}?>
+<?php if($var_c777f9f5bb1d443e6840a6bc0fd59608){echo 'Direct Link:<br><textarea style="margin:10px;width:98%;height:120px;">'.$var_ceb5e88c3ba3c575619c09d05c245af1.'embed.php?url='.$var_c777f9f5bb1d443e6840a6bc0fd59608.'&sub='.$var_6f0761f10142d0b2cca27f076f813d07.'&poster='.$var_65bee03a17c74134539f222cb38f0cae.'</textarea>';}?>
 </div>
 <p><b>Sample Google Photo URL:</b> <input type="text" value="https://photos.google.com/share/AF1QipMTEPAiVF8t0YqLukflnOSQjwfd8ARIoT2h37AXvYO1uaWodbeiFoBUDuD_19tEbg/photo/AF1QipPA2Bq0JlAR9LoGD3mogsxSb9OZWEG4XqBDD4Rv?key=cjhUT0xrZjM5NGN2SVRLOVptZU5SMUlKV0lQYWpB" id="myInput">
 <button onclick="myFunction()">Copy</button></div>
