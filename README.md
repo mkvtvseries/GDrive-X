@@ -17,6 +17,7 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Attractive Panel.</li>
    <li>Never Die Link.</li>
    <li>Login Panel for Security.</li>
+   <li>FuckAdblock. ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Simple Panel.</li>
    <li>Encryption.</li>
    <li>1080p, 720p, 480p, 360p Quality Streaming.</li>
@@ -25,10 +26,10 @@ Please read the <a href='https://github.com/karankankaria/GDrive-X/blob/master/D
    <li>Unlimited Storage.</li>
    <li>Unlimited Bandwidth.</li>
    <li>Secured Source Code ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
-   <li>Domain Restriction.</li>
+   <li>Domain Restriction. ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
    <li>Support JWPlayer.</li>
    <li>Fast setup, in about 15 min you can use it.</li>
-   <li>Frame Busting.</li>
+   <li>Frame Busting. ( <a href='#gdrive-x-premium-tool'>GDrive-X Premium</a> )</li>
 </ul>
 
 ## Demo Site
@@ -106,6 +107,9 @@ You get complete control over your player in GDrive-X Premium Tool. The GDrive-X
    <li>Your VAST/IMA AD, POPUP AD, POPUNDER AD</li>
    <li>Your <b>own logo</b>, <b>about link</b>, <b>about text</b></li>
    <li>Extra secured code</li>
+   <li>Domain Restriction</li>
+   <li>Iframe Busting</li>
+   <li>FuckAdblock</li>
    <li>Improved player style ( Premium look )</li>
    <li>Premium updates</li>
    <li>Technical assistance</li>
@@ -113,23 +117,6 @@ You get complete control over your player in GDrive-X Premium Tool. The GDrive-X
 </ul>
 
 For GDrive-X Premium Tool contact me: 2105karankankaria [@] gmail [dot] com
-
-## IFrame Busting
-
-Initially GDrive-X contains framebusting script which prevents it being loaded in Iframe. If you want to disable it, please follow steps below:
-<ul>
-<li>Open embed.php</li>
-<li>Look for code below. Between line 1 and 3</li>
-</ul>
-   
-   ```
-   <?PHP
-   header('X-Frame-Options: SAMEORIGIN');
-   ?>
-   ```
-<ul>
-<li>Remove it. <strong>Heads up! It will remove framebusting. Anyone with link can now embed it in their site.</strong></li>
-</ul>
 
 ## Screenshots
 
