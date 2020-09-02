@@ -50,7 +50,7 @@ function display_login_form()
 <title>Login Form</title>
 <link rel="icon" href="https://cdn.staticaly.com/gh/domkiddie/drive/master/assets/img/favicon.png">
 <meta name="referrer" content="never" /><meta name="referrer" content="no-referrer" />
-<link rel='dns-prefetch' href='//cdn.jsdelivr.net' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' /><link rel='dns-prefetch' href='//lh3.googleusercontent.com' /><link rel='preconnect' href='//maxcdn.bootstrapcdn.com' />
 <style>html {background-color:#ababab;background-blend-mode:overlay;display:flex;align-items:center;justify-content:center;background-image:url(https://cdn.statically.io/img/i.imgur.com/2oSVvpV.jpg?quality=50&f=auto);background-repeat:no-repeat;background-size:cover;height:100%;}</style>
 <script type="text/javascript">
 <!-- 
