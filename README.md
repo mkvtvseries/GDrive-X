@@ -149,7 +149,7 @@ GDrive-X is created for educational purposes only.
 <b>For Educational And Informational Purposes Only</b>
 <p>The information contained in this GDrive-X (repository) and the resources available for download through this GDrive-X (repository) are for educational and informational purposes only.</p>
 
-<b>Fair Use</b>
+<b><a href='https://en.wikipedia.org/wiki/Fair_use'>Fair Use</a></b>
 
 <p>Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for "fair use" for purposes such as:</p>
 
@@ -162,7 +162,7 @@ GDrive-X is created for educational purposes only.
    <li><u>education and research</u></li>
 </ul>
 
-<p>Fair use is not limited to the above and is to be considered on a case by case basis. Fair use is a use permitted by copyright statute that might otherwise be infringing.</p>
+<p><a href='https://en.wikipedia.org/wiki/Fair_use'>Fair Use</a> is not limited to the above and is to be considered on a case by case basis. Fair use is a use permitted by copyright statute that might otherwise be infringing.</p>
 
 <b>Limitation of Liability</b>
 
